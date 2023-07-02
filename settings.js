@@ -7,12 +7,12 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94757373021'] //ur owner number
+global.ownername = "Dewanga Theakshana" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'deww' //ur bot name
+global.wm = "deww" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
@@ -27,7 +27,7 @@ BOT SETTINGS
 //Language English = 'EN' , Sinhala = 'SI' , Tamil= 'TL'
 global.LANG = 'EN'
 
-global.READ_MASSAGE = true
+global.READ_MASSAGE = false
 
 // enable desable Girls Voice Reply
 global.VOICE_REPLY = true
@@ -36,7 +36,7 @@ global.VOICE_REPLY = true
 global.AUTO_BIO = false
 
 // Inbox massage block PM block
-global.INBOX_BLOCK = false
+global.INBOX_BLOCK = true
 
 //Inbox Block MSG
 global.INBOX_BLOCK_MSG = 'blockedd'
@@ -45,7 +45,7 @@ global.INBOX_BLOCK_MSG = 'blockedd'
 global.ANTI_BADWORD = 'true'
 
 
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 deww ²⁰²³'
 
 // Menu imoji 
 global.MENU_IMOJI = '💃|🧸'
@@ -66,7 +66,7 @@ global.KICK_MSG = ' '
 //Links (URLS)
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
 global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
+global.linkz = "https://chat.whatsapp.com/BmRB6FyL7gzCpxAnjNwWH1" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
 global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
 
@@ -78,7 +78,7 @@ global.alive = process.env.ALIVE_MESSAGE
 global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
 
 //Anti Bad Word
-global.ANTI_BADWORD = 'true'
+global.ANTI_BADWORD = 'false'
 
 //Antilink
 global.antilink = 'true'
